@@ -1,13 +1,4 @@
 def insertion_sort(arr):
-    """
-    Sorts an array using the insertion sort algorithm.
-    
-    Args:
-        arr: List of elements to sort
-    
-    Returns:
-        Sorted list
-    """
     for i in range(1, len(arr)):
         key = arr[i]
         j = i - 1
