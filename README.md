@@ -1,5 +1,5 @@
 # Algorithm
-Solving algorithm problem. 
+Solving algorithm problem by python.
 
 ## 🙌 Acknowledgements
 
@@ -19,3 +19,4 @@ Big thanks to my friend who helped me in this project:
 ## 👤 Author
 
 **[sonjoysd](https://github.com/sonjoysd)**
+
